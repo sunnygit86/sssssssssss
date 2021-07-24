@@ -1,0 +1,6 @@
+Note:
+change
+bin/admin/routine.php email and website adress
+that all
+maestro, acidf thendless.com 
+
